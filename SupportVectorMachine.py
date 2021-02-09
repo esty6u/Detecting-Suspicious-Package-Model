@@ -1,6 +1,4 @@
 
-# Miriam sadeh 315149021
-# Esty Sicsu 312184732
 
 import pandas as pd  
 import numpy as np  
